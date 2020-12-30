@@ -23,13 +23,13 @@ Hello, World!
 
 Welcome to the course! I wanted to give a really fundamental course on programming, so with help from Andrew, Mr. Edins and a bunch of academic literature on how to learn how to code, I present to you this crash corse in programming. 
 
-The goal here is to go from being able to read code, at least a bit, to having the fundamentals you need to make any thing. Don't worry - it's not gonna be that much knowledge. You only need to know the basics - once you have that part down, we'll teach you the tricks to Google and find out how to do more complicated things, but really, it's only that first "getting-started" bit that's difficult.
+The goal here is to go from being able to read code, at least a bit, to having the fundamentals you need to make any thing. Don't worry, it's not gonna be that much knowledge. You only need to know the basics, once you have that part down, we'll teach you the tricks to Google and find out how to do more complicated things, but really, it's only that first "getting-started" bit that's difficult.
 
 We have about a month to do this, and, while that's not a ton of time, we've developed a framework and lesson plans to get it done. It's gonna be intense, but I hope it'll also be pretty fun. We'll meet for 2 hours each week and you'll have about 2-4 hours of encouraged but optional activities to complete. 
 
 So one important thing: Programming isn't about writing lines of code, it's about solving problems and making things. And that's what the class will focus on. 
 
-Interrupt me at any time if you're not understanding what I'm saying. Chances are that other people probably have the same question/misunderstanding. You guys are here to learn, not be right.
+Feel free to ask me a question at any time if you're not understanding what I'm saying. Chances are that other people probably have the same question/misunderstanding.
 
 And finally, what you know from Lua won't directly translate to this course. We'll be using Java, a more common language that will better teach you programming concepts. Be ready for the things you thought you knew to be either wrong or not apply to Java. We're going to start by expecting you guys to have almost no knowledge and work up.
 
